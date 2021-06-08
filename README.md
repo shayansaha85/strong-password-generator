@@ -3,10 +3,13 @@ This windows application can generate strong password
 
 
 <h2>Architecture</h2>
-1. Python 3
-2. tkinter library
-3. string library
-4. random library
+<ol>
+<li>Python 3</li>
+<li>tkinter library</li>
+<li>string library</li>
+<li>random library</li>
+</ol>
+
 <br>
 <h2>Download link</h2>
 <b>Standalone app</b> : <a href="https://github.com/shayansaha85/strong-password-generator/raw/master/standalone-app/generatepass.exe">Click here</a>
