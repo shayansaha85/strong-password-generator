@@ -9,14 +9,12 @@ This windows application can generate strong password
 <li>string library</li>
 <li>random library</li>
 </ol>
-
 <br>
 <h2>Download link</h2>
 <b>Standalone app</b> : <a href="https://github.com/shayansaha85/strong-password-generator/raw/master/standalone-app/generatepass.exe">Click here</a>
 <br>
 <br>
 <b>App with dependencies</b> : <a href="https://github.com/shayansaha85/strong-password-generator/raw/master/app-with-dependencies.zip">Click here</a>
-
 <br>
 <br>
 <h2>How to use?</h2>
