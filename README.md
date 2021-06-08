@@ -19,6 +19,6 @@ This windows application can generate strong password
 <br>
 <br>
 <p>
-	Click on the generatepass.exe (in both cases), in the app you have to enter the length of password and the name of the file where you want to store your password. After entering the data click on <button>Generate Password</button> button. In the same directory one new folder will get generated 'password' (if not present), and the generated password will be stored in that folder.
+Click on the generatepass.exe (in both cases), in the app you have to enter the length of password and the name of the file where you want to store your password. After entering the data click on <b>Generate Password</b> button. In the same directory one new folder will get generated 'password' (if not present), and the generated password will be stored in that folder.
 </p>
 
